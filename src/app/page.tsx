@@ -10,8 +10,6 @@ export default function Page() {
     setIsEnglish(!isEnglish)
   }
 
-  const frontendDev = "Front-End Developer ".repeat(100);
-
   return (
     <>
       <Navbar isEnglish={isEnglish} toggleLanguage={toggleLanguage}/>
