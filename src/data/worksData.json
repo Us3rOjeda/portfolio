@@ -1,0 +1,20 @@
+{
+  "works": [
+    {
+      "title": "SOLARIS ECOMMERCE",
+      "sourceVideo": "/works-videos/solaris.mp4",
+      "websiteLink": "https://solaris-ecommerce-nextjs.onrender.com",
+      "descriptionES": "",
+      "descriptionEN": "",
+      "technologies": ["HTML", "Tailwind CSS", "Typescript", "React", "Redux Toolkit", "Next JS"]
+    },
+    {
+      "title": "COOK IT UP",
+      "sourceVideo": "/works-videos/cookitup.mp4",
+      "websiteLink": "https://cookitup-gfoj.onrender.com",
+      "descriptionES": "",
+      "descriptionEN": "",
+      "technologies": ["HTML", "Tailwind CSS", "Typescript", "React", "Next JS", "GSAP"]
+    }
+  ]
+}
